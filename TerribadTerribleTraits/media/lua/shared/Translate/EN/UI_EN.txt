@@ -1,0 +1,7 @@
+UI_EN = {
+    UI_TTT_trait_verbaldiarrhea = "Verbal Diarrhea",
+    UI_TTT_trait_verbaldiarrheadesc = "Cannot control utterances, and may yell at the worst moments.",
+
+    UI_TTT_trait_amaxophobia = "Amaxophobia"
+    UI_TTT_trait_amaxophobiadesc = "Unable to drive, or even be in, a vehicle."
+}

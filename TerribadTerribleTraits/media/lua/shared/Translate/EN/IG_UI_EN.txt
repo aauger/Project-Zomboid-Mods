@@ -1,0 +1,6 @@
+IGUI_EN = {
+    IGUI_TTT_trait_vd_ut1 = "GADZOOKS!",
+    IGUI_TTT_trait_vd_ut2 = "LEAPING LIZARDS!",
+    IGUI_TTT_trait_vd_ut3 = "JUMPING JEHOSHAPHAT!",
+    IGUI_TTT_trait_vd_ut4 = "GREAT SCOTT!",
+}
